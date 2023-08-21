@@ -1,8 +1,8 @@
 # AudioLink Speaker
-##An audio reactive prefab speaker for unity, using AudioLink from [llealloo](https://github.com/llealloo/vrc-udon-audio-link#audiolink)!
+## An audio reactive prefab speaker for unity, using AudioLink from [llealloo](https://github.com/llealloo/vrc-udon-audio-link#audiolink)!
 This asset needs [AudioLink](https://github.com/llealloo/vrc-udon-audio-link#audiolink) installed in you Unity project in order the work.
 
-#Instalation
+# Instalation
 1. Open your Unity project and make sure [AudioLink](https://github.com/llealloo/vrc-udon-audio-link#audiolink) is installed
 2. (With your project focused) Doubble click the **Seiborg - AudioLink Reactive Speaker.unitypackage** and inport the package
 3. A folder should be in the your **Assets** folder labeled **_seiborg**
