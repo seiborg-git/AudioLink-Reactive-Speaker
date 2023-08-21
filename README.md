@@ -1,2 +1,2 @@
-# AudioLink Speaker Public
+# AudioLink Speaker
  Audio reactive speaker using AudioLink!
