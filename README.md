@@ -1,11 +1,4 @@
-[![](https://dcbadge.vercel.app/api/server/gjKQffg2wH?style=flat)](https://discord.gg/gjKQffg2wH)
-[![Discord](https://img.shields.io/discord/637169472586645516?style=flat&logo=Discord&logoColor=white&label=Discord&labelColor=rgba(112%2C%20112%2C%20112%2C%201)&color=rgba(137%2C%20169%2C%20215%2C%201))](https://discord.gg/gjKQffg2wH)
-
-![Discord](https://img.shields.io/badge/Discord-seiborgs_server-white?style=flat&logo=Discord&logoColor=white&labelColor=rgba(112%2C%20112%2C%20112%2C%201)&color=rgba(137%2C%20169%2C%20215%2C%201))
-
-
-
-
+[![Discord](https://img.shields.io/badge/Discord-seiborgs_server-white?style=flat&logo=Discord&logoColor=white&labelColor=rgba(112%2C%20112%2C%20112%2C%201)&color=rgba(137%2C%20169%2C%20215%2C%201))](https://discord.gg/gjKQffg2wH)
 
 # AudioLink Reactive Speaker
 ## An audio reactive speaker prefab for unity, using AudioLink from [llealloo](https://github.com/llealloo/vrc-udon-audio-link/tree/master)
