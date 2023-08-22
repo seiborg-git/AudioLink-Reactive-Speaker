@@ -1,4 +1,4 @@
-[![](https://dcbadge.vercel.app/api/server/gjKQffg2wH)](https://discord.gg/gjKQffg2wH)
+[![](https://dcbadge.vercel.app/api/server/gjKQffg2wH?style=flat)](https://discord.gg/gjKQffg2wH)
 
 # AudioLink Reactive Speaker
 ## An audio reactive speaker prefab for unity, using AudioLink from [llealloo](https://github.com/llealloo/vrc-udon-audio-link/tree/master)
