@@ -1,4 +1,5 @@
 ![Discord Shield](https://discordapp.com/api/guilds/[637169472586645516]/widget.png?style=shield)
+<iframe src="https://discord.com/widget?id=637169472586645516&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 # AudioLink Reactive Speaker
 ## An audio reactive speaker prefab for unity, using AudioLink from [llealloo](https://github.com/llealloo/vrc-udon-audio-link/tree/master)
