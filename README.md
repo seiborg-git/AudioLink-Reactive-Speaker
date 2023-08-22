@@ -1,6 +1,6 @@
 # AudioLink Reactive Speaker
 ## An audio reactive speaker prefab for unity, using AudioLink from [llealloo](https://github.com/llealloo/vrc-udon-audio-link/tree/master)
-[![Video](https://img.youtube.com/vi/EgExCmWivkI/maxresdefault.jpg)](https://www.youtube.com/watch?v=EgExCmWivkI)
+[![Video](https://img.youtube.com/vi/EgExCmWivkI/default.jpg)](https://www.youtube.com/watch?v=EgExCmWivkI)
 
 This asset needs [AudioLink](https://github.com/llealloo/vrc-udon-audio-link/releases) installed in your Unity project to have full functionality.
 # Instalation
