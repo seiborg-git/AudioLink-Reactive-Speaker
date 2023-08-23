@@ -11,18 +11,18 @@ Check out this demo video!
 ## v1.0.0
 ### Basic Options
 - Albedo map with coloring
-- Metalic map
+- Metallic map
 - Smoothness map with invert option
 - Emission map with coloring and toggle
 ### AudioLink Options
 - AudioLink toggle
 - Emission scaling
 - Hue shift
-- Frequency band sellection
+- Frequency band selection
 ### Speaker Cone Flex Settings
 - Cone flex toggle
 - Vertex offset map
-- Flex ammount
+- Flex amount
 - Multiplier
 - Flex direction (X Y Z)
 ### Speaker Cone Pattern Settings
