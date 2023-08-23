@@ -2,7 +2,7 @@
 
 # AudioLink Reactive Speaker
 ## Audio reactive speaker prefab for unity, using AudioLink from [llealloo](https://github.com/llealloo/vrc-udon-audio-link/tree/master)
-### This assets is available for purchase in the [Seiborgs Unity Assets Discord](https://discord.gg/gjKQffg2wH) through a server subscription.
+### This assets is available for purchase on [GUMROAD](https://seiborg.gumroad.com/)!
 
 Check out this demo video!
 [![Video](https://img.youtube.com/vi/EgExCmWivkI/maxresdefault.jpg)](https://www.youtube.com/watch?v=EgExCmWivkI)
