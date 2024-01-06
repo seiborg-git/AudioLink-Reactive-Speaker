@@ -1,5 +1,3 @@
-[![Discord](https://img.shields.io/badge/Discord-Seiborgs_Unity_Assets-white?style=flat&logo=Discord&logoColor=rgb(114%2C%20137%2C%20217)&labelColor=rgba(112%2C%20112%2C%20112%2C%201)&color=rgb(114%2C%20137%2C%20217))](https://discord.gg/gjKQffg2wH)
-
 # AudioLink Reactive Speaker
 ## Audio reactive speaker prefab for unity, using AudioLink from [llealloo](https://github.com/llealloo/vrc-udon-audio-link/tree/master)
 ### This assets is available for purchase on [GUMROAD](https://seiborg.gumroad.com/)!
